@@ -1,0 +1,10 @@
+[book]
+authors = ["xd"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "档案交接文档"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
